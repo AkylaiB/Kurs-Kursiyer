@@ -1,0 +1,16 @@
+*5050-Ahmet Ada-23
+%1000-Resim
+%1040-Hat
+*6085-Selda Sahin-35
+%1020-Cini
+*5090-Deniz Arslan-30
+%1000-Resim
+%1060-Tel kirma
+*6174-Tarik Kilic-42
+%1010-Ebru
+%1030-Tezhip
+%1050-Seramik
+*7075-Ayse Kaya-20
+%1070-Muzik
+%1080-Tiyatro
+%1100-Grafik
